@@ -14,9 +14,9 @@ namespace Tyuiu.SheludkovAA.Sprint5.Task0.V23
             DataService ds = new DataService();
 
 
-            Console.Title = "Спринт #4 | Выполнил: Шелудков А. А. | АСОиУб-23-1 ";
+            Console.Title = "Спринт #5 | Выполнил: Шелудков А. А. | АСОиУб-23-1 ";
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #4                                                               *");
+            Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #23                                                             *");
             Console.WriteLine("* Выполнил: Шелудков А. А. | АСОиУб-23-1                                  *");
